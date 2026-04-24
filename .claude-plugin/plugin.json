@@ -1,6 +1,6 @@
 {
   "name": "knbn",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Claude Code skills for the knbn kanban board — register work items, smart-join existing cards, and post status updates to track work across multiple Claude Code instances via a VS Enterprise extension",
   "author": {
     "name": "Samuel Hurley",
